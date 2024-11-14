@@ -15,11 +15,6 @@ For GPT, I simply use Transformer Encoder with masks to simulate its architectur
 
 The models are defined in model.py.
 
-### How to Run
-
-Experiments are run on a Linux machine with an Nvidia Tesla V100-SXM2 GPU with 32 GB memory. 
-CUDA version is 11.7 and Driver version is 515.65.01.
-
 #### Configurations
 
 The configurations and hyperparameters are defined in config.py.
