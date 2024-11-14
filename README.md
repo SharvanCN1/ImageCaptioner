@@ -1,10 +1,3 @@
-# ImageCaption
-
-This is a toy project to get hands dirty.
-
-Given an image as input, the model outputs a sentence to summarize the content of the image.
-
-This project is implemented with PyTorch 2.0.1.
 
 ### Dataset
 
